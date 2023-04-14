@@ -3,7 +3,9 @@
 # Especificaciones
 
 IDE Usada: Eclipse
+
 Base de datos: MySQl
+
 Conector de MySQL con java: mysql-connector-j-8.0.32.jar
 
 En el repositorio se encuentra el scrip de la base de datos, al levantar el scrip nombrar a la base de datos "aplicacion_prueba_tecnica_vtv"
